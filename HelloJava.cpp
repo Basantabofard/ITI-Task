@@ -8,5 +8,6 @@ public:
     }
     void printWelcome() {
     cout << "Welcome to Git Lab" << endl;
+    cout<<"day 2 github "<<endl;
 }
 };
