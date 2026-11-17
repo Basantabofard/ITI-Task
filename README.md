@@ -12,3 +12,5 @@ Project Description
 - create multible branches with a branching model
 - merge and resolve conflicts
 - try source tree
+
+branching, commits and merging.
